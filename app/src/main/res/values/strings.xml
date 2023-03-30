@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="todo_1">TODO</string>
+    <string name="todo_2">TODO</string>
+    <string name="save">Save</string>
+    <string name="camera">Camera</string>
+    <string name="todo_3">TODO</string>
+    <string name="video">video</string>
+    <string name="todo_4">TODO</string>
+    <string name="camera_app">Camera App</string>
+</resources>
